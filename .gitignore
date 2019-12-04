@@ -1,0 +1,14 @@
+# packaging
+lib/
+etc/
+lib/
+share/
+include/
+bin/
+.ipynb_checkpoints/
+
+
+.Python
+
+data/SINAN/*.pdf
+data/SINAN/*.csv
