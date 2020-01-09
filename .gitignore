@@ -10,5 +10,6 @@ bin/
 
 .Python
 
+data/*.csv
 data/SINAN/*.pdf
 data/SINAN/*.csv
