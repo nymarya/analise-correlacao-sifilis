@@ -14,3 +14,8 @@ data/*.csv
 data/SINAN/*.pdf
 data/SINAN/*.csv
 data/BANCO_PMAQ/*.csv
+
+.ideia/
+*.json
+reports/*.jpg
+reports/*.png
