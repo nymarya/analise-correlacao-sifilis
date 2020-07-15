@@ -1,6 +1,7 @@
-# ALAUNUS
 
-Alaunus is the celtic god of the sun, healing and prophecy, equivalent to Apollo and Helio of the Greek mythology.
+Projeto que contém as análises feitas para identificar a 
+correlação entre notificações de sífilis, disponibilidade de penicilina e
+de testes rápidos.
 
 Organização do projeto
 ------------
